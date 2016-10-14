@@ -8,7 +8,9 @@ data was assembled for Melissa Brown and Dr Rashawn Ray at the University of
 Maryland.
 
 The tweet identifiers for the associated tweets can be found in this directory
-as ids.txt.gz. You can use this file to rehydrate the data.
+as ids.txt.gz. You can use this file to rehydrate the data. The code that was
+used to analyze the tweets can be found in
+[tweet-analysis](https://github.com/umd-mith/tweet-analysis)
 
 * [Tweets per day](#user-content-tweets)
 * [Top Users per day](#user-content-users)
