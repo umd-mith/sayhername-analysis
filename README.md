@@ -1,4 +1,4 @@
-# Ferguson Tweet Analysis
+# #SayHerName Tweet Analysis
 
 The following data was derived from 463,957 tweets that used the 
 hashtag #sayhername between January 19, 2016 and October 14, 2016. As you can
